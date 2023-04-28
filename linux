@@ -1,0 +1,11 @@
+_____Linux Workflow_____
+1) I have learned few linux commands and they are:
+pwd - present workking directory : which displays the directory in which we are working.
+ls - displays the list of all the files in the folder or directory.
+ls -la - displays all the hiden files
+ll - displays all the permissions like read, write, edit, etc..
+clear - clears the screen
+etc..
+
+Working directory: the files which does not come under traking status, such are is known as the working directory.
+
